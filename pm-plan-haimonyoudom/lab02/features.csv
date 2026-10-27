@@ -1,0 +1,18 @@
+id,feature,plan_class,estimate_h,fr_ids
+F01,Create quizzes with multiple-choice questions,Must,44,FR-Q1..FR-Q7
+F02,Students participate in real time,Must,52,FR-S1..FR-S7
+F03,Instant feedback and scoring,Must,28,FR-C1..FR-C4
+F04,Leaderboards,Must,24,FR-S8
+F05,Real-time updates over WebSocket,Must,48,FR-S5
+F06,Authentication and roles,Must,44,FR-A1..FR-A4
+F07,Timer per question,Must,28,FR-Q3
+F08,Multiple concurrent sessions,Must,32,FR-S2
+F09,Responsive design,Should,20,NFR browser support
+F10,Analytics and reporting,Should,30,FR-R1..FR-R3
+F11,Export results to CSV and PDF,Should,24,FR-R4
+F12,Real-time notifications,Should,12,FR-N1..FR-N2
+F13,Multimedia in questions,Should,24,FR-Q3 media
+F14,Chat during sessions,Could,40,FR-N3
+F15,Anonymous joining with nickname,Could,12,Guest role
+F16,Question bank shared between quizzes,Could,30,-
+F17,Admin role and user management,Could,12,Admin role
