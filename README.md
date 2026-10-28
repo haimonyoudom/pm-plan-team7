@@ -1,14 +1,13 @@
 # Project Management Plan — HAI Monyoudom
 
-- **Course:** Project Management / Realtime Quiz case study
-- **Student:** HAI Monyoudom
-- **Repository:** `pm-plan`
-- **Lab branch:** `lab-01`
+- **Course:** IT Project Management / Realtime Quiz case study
+- **Team:** Team7
+- **Student:** HAI Monyoudom , SONG PhengRoth,Soun Caro , Theng VanHeng
+- **Repository:** `pm-plan-team7`
+- **Lab branch:** `lab-02`
 
 ## Lab record
 
-- Lab-01 completed: charter, stakeholders, business case, process groups (see `lab01/README.md`).
 
 ## Lab sequence
 
-- Lab-01: project charter, classification, stakeholders, business case, and process-group mapping.
