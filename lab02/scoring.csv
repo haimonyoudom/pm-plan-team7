@@ -1,0 +1,8 @@
+criterion,weight,build,buy_saas,hybrid,notes
+Learning value for the capstone,30,5,1,3,weights fixed before scoring (2026-10-27)
+Cost within the 200 USD cash budget,20,4,2,1,
+Time to the week-14 pilot,35,2,5,4,heaviest weight: time is the project driver
+Fit to the 47 functional requirements,15,5,3,4,lightest weight: scope flexes
+Weight check,"=SUM(B2:B5)",,,,must equal 100 (30+20+35+15 = 100)
+Weighted score,,"=SUMPRODUCT($B$2:$B$5,C2:C5)","=SUMPRODUCT($B$2:$B$5,D2:D5)","=SUMPRODUCT($B$2:$B$5,E2:E5)",hand check: Build 375; Buy 290; Hybrid 310
+Percent of maximum,,"=C7/(5*$B$6)","=D7/(5*$B$6)","=E7/(5*$B$6)",hand check: Build 75 %; Buy 58 %; Hybrid 62 % of 500
