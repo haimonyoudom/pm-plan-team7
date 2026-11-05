@@ -1,8 +1,8 @@
-# Project Management Plan — HAI Monyoudom
+# Project Management Plan
 
 - **Course:** IT Project Management / Realtime Quiz case study
 - **Team:** Team7
-- **Student:** HAI Monyoudom , SONG PhengRoth,Soun Caro , Theng VanHeng
+- **Student:** HAI Monyoudom , SONG PhengRoth,SOUN Caro , THENG VanHeng
 - **Repository:** `pm-plan-team7`
 - **Lab branch:** `lab-02`
 
