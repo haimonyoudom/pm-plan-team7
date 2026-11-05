@@ -1,0 +1,8 @@
+criterion,weight,waterfall,scrum,hybrid
+Requirements stability,25,2,3,4
+Technical uncertainty,25,1,5,4
+Team experience with agile,20,4,1,3
+Contract and governance constraints,20,5,1,5
+Need for early delivery and feedback,10,1,5,4
+weighted score,100,2.65,2.90,4.00
+
