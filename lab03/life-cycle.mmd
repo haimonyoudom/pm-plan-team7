@@ -1,0 +1,21 @@
+gantt
+  title Realtime Quiz · hybrid life cycle (14 weeks from 2026-09-29)
+  dateFormat YYYY-MM-DD
+  axisFormat %d %b
+  tickInterval 2week
+  todayMarker off
+  section Predictive
+  Initiate charter and stakeholders (W1) :p1, 2026-09-29, 7d
+  Plan scope WBS schedule and budget (W2-3) :p2, after p1, 14d
+  G1 plan approved :milestone, m1, 2026-10-19, 0d
+  section Agile delivery
+  Sprint 1 accounts and quiz authoring (W4-5) :s1, 2026-10-20, 14d
+  Sprint 2 live quiz and MVP integration (W6-7) :s2, after s1, 14d
+  G2 MVP checkpoint :milestone, m2, 2026-11-16, 0d
+  Sprint 3 feedback and leaderboard (W8-9) :s3, after s2, 14d
+  Sprint 4 concurrent sessions and quality (W10-11) :s4, after s3, 14d
+  section Release
+  Hardening and pilot readiness (W12-13) :h1, after s4, 14d
+  G3 pilot readiness :milestone, m3, 2026-12-28, 0d
+  Pilot with 50 students and handover (W14) :r1, after h1, 7d
+  G4 pilot and closure :milestone, m4, 2027-01-04, 0d
